@@ -106,21 +106,3 @@ The project includes several npm scripts for ease of development:
 ## License
 
 This project is open-source and available under the **MIT License**.
-
-```
-
----
-
-### **Explanation of Key Points:**
-
-1. **Vanilla JavaScript**: The README emphasizes that the project is built using "vanilla" JavaScript, which means no external libraries or frameworks for core functionality. This highlights the simplicity, performance, and flexibility of the solution.
-
-2. **Tailwind CSS**: Even though Tailwind CSS is used for styling, the README mentions that **only Tailwind** is used—there are no additional CSS frameworks or pre-built UI libraries involved, ensuring the project is lightweight and fully customizable.
-
-3. **No External Dependencies**: It’s important to highlight that this project uses no external JavaScript libraries like jQuery, React, or Vue. It’s built purely with native web technologies, making it faster and easier to maintain.
-
-4. **Development and Build Process**: The README explains the setup process for both development and production. By using **npm**, you can easily manage the development environment, including compiling Tailwind CSS and running a local development server.
-
-5. **Performance and Flexibility**: The emphasis is on performance (thanks to vanilla JavaScript and Tailwind) and flexibility, allowing developers to customize the project without worrying about bloat from unnecessary dependencies.
-
----
