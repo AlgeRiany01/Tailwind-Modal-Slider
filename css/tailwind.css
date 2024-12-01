@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+    .base-btn {
+        @apply bg-purple-800 text-white px-6 py-2 transition-all hover:bg-purple-600 hover:scale-105 focus:ring-2 focus:ring-purple-200 rounded;
+    }
+    .slide {
+        position: absolute;
+        font-size: 100px;
+        font-family: sans-serif;
+        transition: all .3s cubic-bezier(0, 0, 0.21, 1);
+        transform: translateX(-200%);
+    }
+    
+    .slide.prev {
+        z-index: 10;
+        transform: translateX(100%);
+    }
+    
+    .slide.current {
+        z-index: 10;
+        transform: translateX(0);
+    }
+    
+    .slide.next {
+        z-index: 10;
+        transform: translateX(-100%);
+    }
+}
+
+
