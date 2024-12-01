@@ -10,18 +10,7 @@ This is a lightweight, high-performance web project demonstrating a **modal** an
 - **Image Slider**: An automatic image slider that transitions between images every 2.5 seconds, with manual controls for "Next" and "Previous".
 - **No Dependencies**: Everything is built from scratch with no external dependencies, ensuring optimal performance and flexibility.
 
-## Getting Started
 
-To get the project up and running locally, follow the steps below:
-
-### 1. Clone the Repository
-
-First, clone the repository to your local machine using Git:
-
-```bash
-git clone https://github.com/yourusername/vanilla-modal-slider.git
-cd vanilla-modal-slider
-```
 
 ### 2. Install Dependencies
 
