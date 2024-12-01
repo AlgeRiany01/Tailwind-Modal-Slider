@@ -1,8 +1,3 @@
-Here's a more professional and polished version of your **README.md**, with emphasis on the fact that the project is built **natively** using **vanilla HTML, CSS (Tailwind), and JavaScript** without relying on any external libraries or frameworks:
-
----
-
-### **README.md**
 
 ```markdown
 # Vanilla Modal and Slider Project
